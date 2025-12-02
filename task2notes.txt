@@ -1,0 +1,16 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Righteous&family=Volkhov:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+
+
+landingpage gradient = 04016C ,  4A16BD
+
+button = 083F9B , 7F56D9
+
+carosal =  2E08C7 , 5C08C7
+
+2nd section = D9ECFF ,F0F3FF
+
+3rd section = 739FE8 ,4F18CA
+4th section = D9ECFF ,D9ECFF
+footer = 477AE3 ,931BBD
